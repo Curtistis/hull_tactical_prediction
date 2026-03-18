@@ -1,0 +1,13 @@
+{
+  "ic_mean": NaN,
+  "ic_std": NaN,
+  "ic_median": NaN,
+  "ic_min": NaN,
+  "ic_max": NaN,
+  "ic_trend": "\u7a33\u5b9a",
+  "ic_trend_slope": NaN,
+  "score_mean": 1.3065993259806141,
+  "score_std": 1.4265089933610131,
+  "negative_windows": 5,
+  "total_windows": 20
+}

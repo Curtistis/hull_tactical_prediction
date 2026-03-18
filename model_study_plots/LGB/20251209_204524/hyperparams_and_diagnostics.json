@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-12-09 20:45:24",
+  "hyperparameters": {
+    "n_estimators": 547,
+    "learning_rate": 0.0213,
+    "max_depth": 3,
+    "num_leaves": 989,
+    "reg_lambda": 0.15863062316821452,
+    "reg_alpha": 0.0160739202680702,
+    "colsample_bytree": 0.7364875659389419,
+    "subsample": 0.7977901996437912,
+    "min_child_samples": 59,
+    "min_child_weight": 0.0055320700687979665
+  },
+  "diagnostics": {
+    "best_iteration": 0,
+    "best_valid_score": 13.556223219588455,
+    "overfitting_gap_percent": -98.50862167292026,
+    "convergence_speed_percent": 44.682910175245574
+  },
+  "training_info": {
+    "model_type": "lightgbm",
+    "configured_n_estimators": 547,
+    "actual_best_iteration": 0
+  }
+}
